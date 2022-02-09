@@ -1,6 +1,6 @@
 # Rayscan-Dashboard
 
-Raysan Dashboard is website template for modernistic approach in healthcare system. It consist of various pages such as:-
+Raysan Dashboard is website template for modernistic approach in healthcare system. It consist of various web-pages such as:-
 
 -Healthcare Dashboard
 
